@@ -1,0 +1,1 @@
+"""EuroLeague ingestion pipeline primitives."""
